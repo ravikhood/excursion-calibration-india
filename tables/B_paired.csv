@@ -1,0 +1,4 @@
+rule,reps,v1_only,v2_only,both,diff_FWER,mcnemar_exact_p
+joint a=0.025/sign,200,13,20,15,-3.5,0.2962
+joint a=0.05/sign,200,15,24,36,-4.5,0.1996
+marginal 95%,200,14,19,16,-2.5,0.4869
