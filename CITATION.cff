@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+title: "Code and result tables for: Frequentist calibration of Bayesian joint excursion sets for gridded trend detection: evidence from surface solar radiation over India"
+type: software
+authors:
+  - family-names: Kumar
+    given-names: Ravi
+    affiliation: "Department of Mathematics, Birla Institute of Technology and Science, Pilani, Pilani Campus, India"
+version: 1.0.1
+date-released: "2026-11-16"
+license: MIT
+repository-code: "https://github.com/ravikhood/excursion-calibration-india"
+keywords:
+  - excursion sets
+  - INLA-SPDE
+  - false discovery rate
+  - surface solar radiation
+  - India
